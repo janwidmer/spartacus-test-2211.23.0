@@ -45,6 +45,7 @@
     "@spartacus/styles": "~2211.23.0",
     "@spartacus/tracking": "~2211.23.0",
     "@spartacus/user": "~2211.23.0",
+    "@valantic/spartacus-mock": "4.0.2",
     "angular-oauth2-oidc": "^17.0.1",
     "bootstrap": "^4.6.2",
     "express": "^4.18.2",
